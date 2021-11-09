@@ -1,1 +1,3 @@
-# Write_a_Data_Science_Blog_Post
+# Udacity Data Science Nanodegree 
+# Write a Data Science Blog Post
+
