@@ -8,6 +8,8 @@
     <li></li>
 </ul>
 
+### Introduction
+
 In this project I used CRISP-DM approach to maintain track of the analytic process. The CRISP-DM approach include Business Understanding, Data Understanding, Prepare Data, Data Modeling, and Evaluate the Result. 
 
 ### Motivation:
