@@ -5,7 +5,8 @@
 <ul>
     <li>StackOverflow.ipynb</li>
     This file contains the code and all the steps used for the analysis process
-    <li></li>
+    <li>https://medium.com/@mariam.alabkari/stack-overflow-dataset-explanatory-data-analysis-e105590eb938</li>
+    This link is the blog post in Medium website
 </ul>
 
 ### Introduction
@@ -35,6 +36,7 @@ This survey helps me to learn more about stackoverflow and to know who use the w
     <li>There are only few people make money from stackoverflow</li>
     <li>People in Unaited Satates make more salary</li>
     <li>People in United Satates use stackoverflow for money more than other countries</li>
+    <li>People with a doctoral degrees make more money from Stack OverFlow</li>
 </ul>
 
 ### Data Source
