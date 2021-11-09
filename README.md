@@ -12,6 +12,7 @@ In this project I used CRISP-DM approach to maintain track of the analytic proce
 
 ### Motivation:
 
+This survey helps me to learn more about stackoverflow and to know who use the webite more, also the reason of use. For this reason I tried to answer some questions by using the dataset such as, which countries utilized Stackoverflow the most?, stackoverflow is most used by which education level?, people from which education level make more salary, how many people agree and disagree on make money from StackOverFlow?, and which country use stackoverflow more for money?
 
 ### Packages used:
 <ul>
@@ -20,8 +21,7 @@ In this project I used CRISP-DM approach to maintain track of the analytic proce
     <li>random</li>
     <li>matplotlib</li>
  </ul>
-### Acknowledgements
-
+ 
 ### Summary
 <ul>
     <li>People in United States used Stackoverflow more than other countries</li>
